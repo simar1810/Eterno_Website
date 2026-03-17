@@ -6,9 +6,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.wellnessz.lifeinkgs",
+      "package_name": "com.wellnessz.eterno",
       "sha256_cert_fingerprints": [
-        "5E:86:B8:CC:4D:12:29:0B:F7:AC:CD:E3:0D:03:BD:9C:25:79:60:73:26:6B:39:D9:07:F2:AE:97:F2:92:F0:AC"
+        "50:48:CC:E3:76:A3:3C:DD:7E:4D:40:50:CD:83:2B:E3:F2:6D:CB:1B:03:71:A1:A4:12:66:28:D2:55:BA:CE:32"
       ]
     }
   }

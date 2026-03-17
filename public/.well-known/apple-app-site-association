@@ -3,12 +3,12 @@
     "apps": [],
     "details": [
       {
-        "appIDs": ["YB5RW5JH8M.com.wellnessz.lifeinkgs"],
+        "appIDs": ["YB5RW5JH8M.com.wellnessz.eterno"],
         "paths": ["/app/*"]
       }
     ]
   },
   "webcredentials": {
-    "apps": ["YB5RW5JH8M.com.wellnessz.lifeinkgs"]
+    "apps": ["YB5RW5JH8M.com.wellnessz.eterno"]
   }
 }
