@@ -1,9 +1,9 @@
 import { NextResponse } from 'next/server';
 
 const PLAY_STORE_URL =
-  'https://play.google.com/store/apps/details?id=com.wellnessz.metis&hl=en_IN';
+  'https://play.google.com/store/apps/details?id=com.wellnessz.eterno&hl=en_IN';
 const APP_STORE_URL =
-  'https://apps.apple.com/us/app/metis-fit/id6759552975';
+  'https://apps.apple.com/us/app/eterno/id6759284060';
 
 const IOS_REGEX = /iPhone|iPad|iPod/i;
 const ANDROID_REGEX = /Android/i;
