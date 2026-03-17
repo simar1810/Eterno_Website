@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wellnessz.lifeinkgs",
+      "sha256_cert_fingerprints": [
+        "5E:86:B8:CC:4D:12:29:0B:F7:AC:CD:E3:0D:03:BD:9C:25:79:60:73:26:6B:39:D9:07:F2:AE:97:F2:92:F0:AC"
+      ]
+    }
+  }
+]
